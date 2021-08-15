@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My first post",
+      "content": "This is the first post of my blog about me. I'm a passionate Software Enginner who loves learning new things every day!"
+    },
+    {
+      "id": 2,
+      "title": "My second post!!",
+      "content": "In my second post I'm going to talk about pets. I have two cats and I'm in love with them."
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
