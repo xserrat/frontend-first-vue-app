@@ -1,6 +1,6 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
+  <div>
+    <h1>Last posts:</h1>
     <PostsList />
   </div>
 </template>

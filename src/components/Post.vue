@@ -1,6 +1,8 @@
 <template>
-  <h1>{{ title }}</h1>
-  <p>{{ content }}</p>
+  <article>
+    <h2>{{ title }}</h2>
+    <p>{{ content }}</p>
+  </article>
 </template>
 
 <script>
